@@ -2,4 +2,4 @@ Plug 'Lokaltog/vim-powerline'
 Plug 'stephenmckinney/vim-solarized-powerline'
 
 Plug 'christoomey/vim-tmux-navigator'
-Plug 'scrooloose/nerdtree'
+Plug 'preservim/nerdtree'
